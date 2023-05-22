@@ -42,7 +42,7 @@ node server.js
         
  ## Usage
 The application can be used to view, add, update, and delete categories, products, and tags. The user can use Insomnia Core to test the routes.
-[The following video](VIDEO HERE) demonstrates the application's functionality:
+[The following video](https://drive.google.com/file/d/11olOqxgUzfTumrqh6s1PrtnQro82_kQA/view) demonstrates the application's functionality:
         
  ## License
  MIT
